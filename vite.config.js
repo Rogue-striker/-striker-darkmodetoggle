@@ -8,7 +8,7 @@ export default defineConfig({
   build : {
     lib : {
       entry : path.resolve(__dirname, 'src/components/index.js'),
-      name : '@striker/DarkModeToggle',
+      name : '@rouge-striker/DarkModeToggle',
       fileName : (format)=>`darkmodetoggle.${format}.js`,
 
     },

@@ -1,6 +1,6 @@
 {
-  "name": "@striker/darkmodetoggle",
-  "version": "0.0.1",
+  "name": "@rouge-striker/darkmodetoggle",
+  "version": "0.0.2",
    "main" : "./dist/darkmodetoggle.umd.js",
   "module" : "./dist/darkmodetoggle.esm.js",
   "exports" : {
