@@ -1,15 +1,8 @@
 {
   "name": "@rouge-striker/darkmodetoggle",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main" : "./dist/darkmodetoggle.umd.js",
   "module" : "./dist/darkmodetoggle.esm.js",
-  "exports" : {
-    "." : {
-      "import" : "./dist/darkmodetoggle.esm.js",
-      "require" : "./dist/darkmodetoggle.umd.js"
-    }
-  },
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
