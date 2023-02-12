@@ -1,12 +1,12 @@
 {
   "name": "@rouge-striker/darkmodetoggle",
   "version": "0.0.3",
-  "main" : "./dist/@rouge-striker/darkmodetoggle.umd.js",
-  "module" : "./dist/@rouge-striker/darkmodetoggle.esm.js",
+  "main" : "./dist/darkmodetoggle.umd.js",
+  "module" : "./dist/darkmodetoggle.esm.js",
   "exports" : {
     "." : {
-      "import" : "./dist/@rouge-striker/darkmodetoggle.esm.js",
-      "require" : "./dist/@rouge-striker/darkmodetoggle.umd.js"
+      "import" : "./dist/darkmodetoggle.esm.js",
+      "require" : "./dist/darkmodetoggle.umd.js"
     }
   },
 
