@@ -6,12 +6,12 @@
 
 # Installation 
 
-```
+```sh
 npm i vue-darkmode-toggle
 ```
 
 # Usage 
-```
+```vue
 import { DarkModeToggle } from 'vue-darkMode-toggle'
 
 <template>
