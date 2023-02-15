@@ -1,8 +1,8 @@
 {
-  "name": "@rouge-striker/darkmodetoggle",
+  "name": "vue-darkmode-toggle",
   "version": "0.2.0",
   "main" : "./dist/darkmodetoggle.umd.js",
-  "module" : "./dist/darkmodetoggle.esm.js",
+  "module" : "./dist/darkmodetoggle.es.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
