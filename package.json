@@ -1,6 +1,8 @@
 {
   "name": "vue-darkmode-toggle",
-  "version": "0.2.0",
+  "version": "1.0.0",
+  "author" : "rogue-striker",
+  "description": "A simple dark mode toggle for Vue 3 which automatically adds the dark class to the html tag",
   "main" : "./dist/darkmodetoggle.umd.js",
   "module" : "./dist/darkmodetoggle.es.js",
   "scripts": {
