@@ -7,13 +7,13 @@
 # Installation 
 
 ```
-npm i vue-darkMode-toggle
+npm i vue-darkmode-toggle
 ```
 
 # Usage 
 ```
-import DarkModeToggle from 'vue-darkMode-toggle'
+import { DarkModeToggle } from 'vue-darkMode-toggle'
 
 <template>
-  <DarkModeToggle />
+  <DarkModeToggle class='h-4 w-4' />
 </template>
