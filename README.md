@@ -12,7 +12,7 @@ npm i vue-darkmode-toggle
 
 # Usage 
 ```vue
-import { DarkModeToggle } from 'vue-darkMode-toggle'
+import { DarkModeToggle } from 'vue-darkmode-toggle'
 
 <template>
   <DarkModeToggle class='h-4 w-4' />
